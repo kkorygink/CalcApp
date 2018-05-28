@@ -11,6 +11,8 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
+// THOMAS BRIGHT WAS HERE
+
 public class MainActivity extends AppCompatActivity {
 
     private Button loginButton;
