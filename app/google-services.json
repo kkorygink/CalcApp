@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "941027550699",
+    "firebase_url": "https://calcapp-18ca8.firebaseio.com",
+    "project_id": "calcapp-18ca8",
+    "storage_bucket": "calcapp-18ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941027550699:android:af0ad250ad3fddf0",
+        "android_client_info": {
+          "package_name": "com.example.kirill_korygin.calcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941027550699-a88kiuobv07v2q40dvaafg94b9mfaakm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "941027550699-a88kiuobv07v2q40dvaafg94b9mfaakm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyK9ssYCz2Mls0BZOPZmI8mGXFKSy7T6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
